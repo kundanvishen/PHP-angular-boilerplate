@@ -1,0 +1,38 @@
+.table-scroll {
+    overflow-x: scroll;
+}
+
+.panel-heading,
+.panel-default>.panel-heading {
+    background-color: black;
+    color: white;
+}
+
+.btn-custom-red {
+    background: #e75445;
+    color: white;
+}
+
+.white-text {
+    color: white;
+}
+
+.stages-panel .panel-default {
+    border-color: #cac9c9;
+    border-radius: 0px !important;
+}
+
+.stages-panel .panel-heading,
+.stages-panel .panel-default>.panel-heading {
+    background-color: #efefef;
+    color: #383636;
+}
+
+.stages-panel .panel-title>a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.container-panel .panel-heading {
+    background-color: #4a4a4a;
+}
